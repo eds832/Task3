@@ -27,7 +27,7 @@ public class RequestHandler {
 	public static ArrayList<ArrayList<AbstractTour>> handleRequest(ArrayList<String[][]> parsedRequest)
 			throws WrongDataException {
 
-		if ((parsedRequest == null) || (parsedRequest.isEmpty())) {
+		if (parsedRequest == null || parsedRequest.isEmpty()) {
 			throw new WrongDataException("There aren't requests");
 		}
 		ArrayList<ArrayList<AbstractTour>> responseList = new ArrayList<>();

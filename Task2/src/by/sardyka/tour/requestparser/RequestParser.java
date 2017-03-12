@@ -26,22 +26,20 @@ public class RequestParser {
 			String strMas[] = str.split(REG_1);
 			String parsed[][] = new String[strMas.length][2];
 			boolean isAccepted = true;
-			if (strMas.length > MAX_SIZE || strMas.length < MIN_SIZE) {
-				isAccepted = false;
-				LOG.log(Level.ERROR, "This request file contains the wrong String = " + str);
-			}
-			if (isAccepted) {
+			if (strMas.length <= MAX_SIZE && strMas.length >= MIN_SIZE) {
 				for (int i = 0; i < strMas.length; i++) {
 					String strInner[] = strMas[i].split(REG_2);
-					if (strInner.length != INNER_SIZE) {
+					if (strInner.length == INNER_SIZE) {
+						parsed[i][0] = strInner[0];
+						parsed[i][1] = strInner[1];
+					} else {
 						isAccepted = false;
 						LOG.log(Level.ERROR, "This request file contains the wrong String = " + str);
 					}
-					if (isAccepted) {
-						parsed[i][0] = strInner[0];
-						parsed[i][1] = strInner[1];
-					}
 				}
+			} else {
+				isAccepted = false;
+				LOG.log(Level.ERROR, "This request file contains the wrong String = " + str);
 			}
 			if (isAccepted) {
 				parsedRequestList.add(parsed);
