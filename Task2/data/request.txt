@@ -1,0 +1,11 @@
+Type: Family, Minimum duration: 3, Maximum price: 1000, Earliest date: 2017-04-07
+Minimum duration: 5, Maximum price: 1100
+Maximum price: 1100, Minimum duration: 1, Type:
+Earliest date: 2017-04-07, Maximum price: 1100, Minimum duration: 5
+Maximum price: 1100, Minimum duration: 5, Type: Family
+TYPE: guided, Maximum price: 1100
+Earliest date: 2017-04-17, Type: cruise
+Type: shopping, Earliest date: 2017-03-37
+type: shop
+maximum price: 100, Tupe: shopping
+EARLIEST DATE :  2017-07-07  ,   maximum price :   7777

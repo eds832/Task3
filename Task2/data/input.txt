@@ -1,0 +1,22 @@
+Family, budget, Egypt 3 stars Hurgada Lazy Dad rum for 3 persons, 2017-04-04, 8, Plane, All, 1780
+family, delux, Spain 4 stars Costa Brava Casa Cavallo 4 stars suit for 2 persons, 2017-04-28, 9, Plane, HB, 2720
+Family,  Luxury,    Italy 5 stars Corsica Rich Brothers bungalow for 4 persons,  2017-05-01, 10, Plane, HB, 6950
+family, Luxury, Monaco 6 stars Prince Palace for 20 person, 2017-07-07, 5, Plane, all, 2222000
+Family, Delux,  Portugal Riva Comrad shelter for 10 persons, 2017-02-02, 30, none, None, 100
+Guided, Castle, UK Castles of England 2 stars accommodation for 1 person, 2017-05-09, 7, Plane, B, 2070
+Guided, Palace, Russia Palaces of St. Petersburg with accommodation for 1 person, 2017-05-11, 5, Train, None, 340
+Guided, Temple, Israel Christian's Lord's Temples with accommodation for 1 person, 2017-04-22, 4, Plane, B, 670
+Guided, landscape, Europe sea views along Med sea shore with accommodation for 1 person, 2017-06-01, 12, Bus, b, 1590
+Guided, overall, Europe throughout tour Wars.-Dresd.-Paris 5 nights in hotel for 1, 2017-04-20, 9, Bus, None, 799
+Guided, overal, EU for free for everyone, 2017-05-01, 30, None, None, 0
+Shopping, Overall, Turkey Istanbul with accommodation in 2 stars hotel for 1 person, 2017-04-27, 4, Plane, B, 650
+Shopping, mall, Italy Milano malls with accommodation in 2 stars hotel for 1 person, 2017-05-11 , 5, Plane, B, 980
+Shopping, market, Ukraine Hmelnitsky market per 1, 2017-03-22, 2, bus, none, 55
+Shopping, market, Minsk markets tour for free, 2017-05-05, 30, play, fed up, -1
+family, budget, Minsk Komsomolskoe lake for free, 2017-06-01, 90, none, none, 0
+family, Budget, Russia Sochi Lasurnoe resort 3 stars rum for 4 pers. , 2017-06-07, 11, none, B, 999
+shopping, budget, Moscow Sadovod market for 1, 2017-3-27, 2, bus, none, 50
+family , delux, Turkey 4+ stars Belek Riverside Grand rum for 3 p., 2017-06-17, 8, plane, all, 3405
+guided, Overall, Minsk throughout 5 hours tour for one person, 2017-04-12, 1, Bus, none, 12
+cruise, river, Egypt Nile tour with Aswan and Pyramids for 1, 2017-05-07, 7, Plane, All, 1230
+cruise, Sea, Cruise Queen Victory 1st class Cyprus-Greece-Italy-Spain for 2 pers., 2017-07-07, 10, Plane, All, 7777
