@@ -1,0 +1,36 @@
+Mercedes 7777IA-7, unload, 150, urgent
+Scania 3333IE-5, load, 100, not urgent
+Man 5555AB-3, load, 150, not urgent
+Volvo 4444BB-4, load, 150, urgent
+Daf 3773AA-7, unload, 100, not urgent
+Maz 2222EE-1, unload, 100, not urgent
+Kamaz 1234MMM-77, load, 100, not urgent
+Volvo 5435TT-2, unload, 150, not urgent
+Mercedes 5577EM-7, load, 150, not urgent
+Man 2423OI-5, unload, 100, not urgent
+Scania 4533BT-3, load, 150, not urgent
+Volvo 3354OO-6, unload, 100, urgent
+Maz 1112BB-4, load, 100, not urgent
+Scania 9349KK-2, unload, 100, urgent
+Mercedes 3242KI-1, load, 150, urgent
+Kamaz 4321NNN-67, load, 100, not urgent
+Volvo 8382ET-2, unload, 150, not urgent
+Man 8484PI-3, unload, 100, not urgent
+Daf 6565EO-5, load, 150, not urgent
+Scania 5738IO-5, unload, 150, not urgent
+Mercedes 5637TI-3, unload, 150, not urgent
+Tatra 0101TT-1, unload, 100, not urgent
+Maz 3213IA-3, unload, 150, not urgent
+Man 7564IT-7, unload, 100, not urgent
+Volvo 8483OO-5, unload, 150, not urgent
+Peterbit 0010IO-1, unload, 150, not urgent
+IVECO 5737IE-7, unload, 150, not urgent
+Man 4382MA-7, unload, 150, not urgent
+Iveco 1034PA-3, load, 150, not urgent
+Mercedes 7575EE-7, unload, 150, urgent
+wrong string #0, unload, 100, urgent, Merc
+wrong string #1, load, 500, urgent
+wrong string #2, loadd , 499, urgent
+wrong string #3, unload, 499, rgent
+wrong string #4, load, 0, not urgent
+wrong string #5, unload, one, urgent
