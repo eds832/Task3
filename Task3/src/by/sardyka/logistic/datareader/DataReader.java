@@ -9,7 +9,7 @@ import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;
 
 public class DataReader {
-	private static final Logger LOG = LogManager.getLogger(DataReader.class);
+	private static final Logger  LOG = LogManager.getLogger(DataReader.class);
 
 	public static ArrayList<String> readData(String source) {
 		ArrayList<String> list = new ArrayList<String>();

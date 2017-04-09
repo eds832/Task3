@@ -10,7 +10,7 @@ import java.util.Random;
 
 public class Terminal {
 	private int terminalId;
-	private static final Logger LOG = LogManager.getLogger(Terminal.class);
+	private static final Logger  LOG = LogManager.getLogger(Terminal.class);
 
 	public Terminal(int terminalId) {
 		super();

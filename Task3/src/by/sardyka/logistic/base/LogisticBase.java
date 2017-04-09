@@ -30,7 +30,7 @@ public class LogisticBase {
 	private static ReentrantLock lockTerminal = new ReentrantLock();
 	private static ReentrantLock lockReturnTerminal = new ReentrantLock();
 	private final Queue<Terminal> terminalQueue = new LinkedList<Terminal>();
-	private static int numberOfChange = 0;
+	private static int  numberOfChange = 0;
 
 	private LogisticBase() {
 		for (int i = 0; i < NUM_TERMINAL; i++) {

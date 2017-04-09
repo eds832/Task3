@@ -10,7 +10,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 public class Track extends Thread implements Comparable<Track> {
-	private int trackId;
+	private int  trackId;
 	private String trackName;
 	private int space;
 	private boolean isUrgent;

@@ -11,7 +11,7 @@ import by.sardyka.logistic.track.Track;
 
 public class Creator {
 	private static final String REG = "\\s*,\\s+";
-	private static final int SIZE = 4;
+	private static final int  SIZE = 4;
 	private static final Logger LOG = LogManager.getLogger(Creator.class);
 	private static final String LOAD = "load";
 	private static final String UNLOAD = "unload";

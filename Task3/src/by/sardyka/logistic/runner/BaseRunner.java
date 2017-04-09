@@ -24,7 +24,7 @@ public class BaseRunner {
 		LogisticBase base = LogisticBase.getInstance();
 		ArrayList<Track> trackList = Creator.createTrackList(strList, base);
 		Collections.sort(trackList);
-		LOG.log(Level.INFO, "\n" + trackList.size() + " tracks are about to enter to the target logistic base");
+		LOG.log(Level.INFO,  "\n" + trackList.size() + " tracks are about to enter to the target logistic base");
 		for (Track thread : trackList) {
 			thread.start();
 		}

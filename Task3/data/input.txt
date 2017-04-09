@@ -1,4 +1,4 @@
-Mercedes 7777IA-7, unload, 150, urgent
+Mercedes  7777IA-7, unload, 150, urgent
 Scania 3333IE-5, load, 100, not urgent
 Man 5555AB-3, load, 150, not urgent
 Volvo 4444BB-4, load, 150, urgent
